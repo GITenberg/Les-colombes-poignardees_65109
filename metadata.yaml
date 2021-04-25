@@ -1,5 +1,8 @@
 _repo: Les-colombes-poignardees_65109
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65109-h/images/cover.jpg
 creator:
   author:
     agent_name: Magre, Maurice
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maurice_Magre
     - https://fr.wikipedia.org/wiki/Maurice_Magre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65109#Les-colombes-poignardees
 gutenberg_issued: '2021-04-19'
 gutenberg_type: Text
 identifiers:
